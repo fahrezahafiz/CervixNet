@@ -1,0 +1,84 @@
+Results summary
+|-Results in random_search/xception
+|-Showing 10 best trials
+|-Objective(name='val_accuracy', direction='max')
+Trial summary
+|-Trial ID: 1a9cf74a62af541a94a68a1aa566ff7b
+|-Score: 0.9652317762374878
+|-Best step: 0
+Hyperparameters:
+|-dropout_rate: 0.4000000000000001
+|-fc_activation: tanh
+|-fc_units: 160
+Trial summary
+|-Trial ID: e2e73bc0ed6e86610ac71429d8dfcbc5
+|-Score: 0.9635761380195618
+|-Best step: 0
+Hyperparameters:
+|-dropout_rate: 0.30000000000000004
+|-fc_activation: tanh
+|-fc_units: 288
+Trial summary
+|-Trial ID: 05faf5c95a54cf386a1c56f8e83b61a0
+|-Score: 0.9619205594062805
+|-Best step: 0
+Hyperparameters:
+|-dropout_rate: 0.30000000000000004
+|-fc_activation: tanh
+|-fc_units: 384
+Trial summary
+|-Trial ID: 9a4f2480ce8839d165a8b1363a347958
+|-Score: 0.9619205594062805
+|-Best step: 0
+Hyperparameters:
+|-dropout_rate: 0.2
+|-fc_activation: tanh
+|-fc_units: 192
+Trial summary
+|-Trial ID: db9eeb69f08fb09a6db66ef8f0f16cca
+|-Score: 0.9602649211883545
+|-Best step: 0
+Hyperparameters:
+|-dropout_rate: 0.30000000000000004
+|-fc_activation: relu
+|-fc_units: 160
+Trial summary
+|-Trial ID: 8ea2af1fd8c056ba43379968e850b645
+|-Score: 0.9602649211883545
+|-Best step: 0
+Hyperparameters:
+|-dropout_rate: 0.4000000000000001
+|-fc_activation: sigmoid
+|-fc_units: 32
+Trial summary
+|-Trial ID: cd1c275edd216f705036eab09792665c
+|-Score: 0.9586092829704285
+|-Best step: 0
+Hyperparameters:
+|-dropout_rate: 0.2
+|-fc_activation: sigmoid
+|-fc_units: 288
+Trial summary
+|-Trial ID: 5f6965f1f88d9421527efd3fdda293cb
+|-Score: 0.9586092829704285
+|-Best step: 0
+Hyperparameters:
+|-dropout_rate: 0.2
+|-fc_activation: relu
+|-fc_units: 224
+Trial summary
+|-Trial ID: f8fd983a0549edc9a023d7d89bc7387f
+|-Score: 0.9586092829704285
+|-Best step: 0
+Hyperparameters:
+|-dropout_rate: 0.2
+|-fc_activation: relu
+|-fc_units: 64
+Trial summary
+|-Trial ID: a4cfe506b4d77d16ac84ec8f80631b7a
+|-Score: 0.9586092829704285
+|-Best step: 0
+Hyperparameters:
+|-dropout_rate: 0.4000000000000001
+|-fc_activation: tanh
+|-fc_units: 224
